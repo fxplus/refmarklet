@@ -4,4 +4,4 @@ This bookmarklet is only of use on a drupal node edit page with some custom them
 
 See [blog post for details](http://tombola.github.io/blog/2014/04/17/Markdown-syntax/).
 
-[Illustration of resultant highlighting](tombola.github.io/images/referencing_highlights.png)
+[Illustration of resultant highlighting](http://tombola.github.io/images/referencing_highlights.png)
